@@ -1,2 +1,4 @@
 # HQCReport
-webpack ,react , sass
+webpack ,react , sass，git 
+
+我现在可以说是根本不会用webpack 和 react ,以及sass,git也是半吊子的在用。有那么一段时间，对git d的命名用的还是那么回事。所以，现在我要开始去写没去用。因为，质控报告是我已经用jq 和easyui 做了的项目，但是我很想要学成webpack，就像听到这个名字，就让我觉得高端。对于react ，听的比写的多得多。要是不蹭这个视角和机会。我一直都只能留在自己的想象中。。。。。我的从写中得到跟多的知识！
